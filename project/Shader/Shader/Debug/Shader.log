@@ -1,0 +1,4 @@
+﻿  Shader.cpp
+e:\documents\github\opengl\project\shader\shader\shader.cpp(38): warning C4101: “infoLog”: 未引用的局部变量
+e:\documents\github\opengl\project\shader\shader\shader.cpp(37): warning C4101: “success”: 未引用的局部变量
+  Shader.vcxproj -> E:\Documents\GitHub\openGL\project\Shader\Debug\Shader.exe
