@@ -38,7 +38,7 @@
 3. OpenGL着色语言概述
     ```glsl
     #version 430 core
-    (layout = 0) in vec3 aPos;
+    layout ( location = 0) in vec3 aPos;
     out vec4 Position;
     uniform mat4 Model;
 
